@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/etud/Documents/Prog Système/Reseaux/jar_files/jar_files_jackson/jackson-annotations-2.16.1.jar",
+        "/home/etud/Documents/Prog Système/Reseaux/jar_files/jar_files_jackson/jackson-core-2.16.1.jar",
+        "/home/etud/Documents/Prog Système/Reseaux/jar_files/jar_files_jackson/jackson-databind-2.16.1.jar",
+        "/home/etud/Documents/Prog Systeme et Reseaux/Reseaux/jar_files/jar_files_jackson/jackson-annotations-2.16.1.jar",
+        "/home/etud/Documents/Prog Systeme et Reseaux/Reseaux/jar_files/jar_files_jackson/jackson-core-2.16.1.jar",
+        "/home/etud/Documents/Prog Systeme et Reseaux/Reseaux/jar_files/jar_files_jackson/jackson-databind-2.16.1.jar"
+    ]
+}
